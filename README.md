@@ -7,7 +7,107 @@
 # How to make your own byoso
 
 <p align="center">
-    <img src="./share/images/ecessary_parts.jpg" width=800>
+    <img src="./share/images/ecessary_parts.jpg" width=600>
+</p>
+
+<p align="center">
+    <img src="./share/images/connect_box.jpg" width=600>
+</p>
+
+<p align="center">
+    <img src="./share/images/knockouts.jpg" width=600>
+</p>
+
+<p align="center">
+    <img src="./share/images/cable_connector.jpg" width=600 class="cable_connector">
+</p>
+
+<p align="center">
+    <img src="./share/images/repared_outlet_box.jpg" width=600>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
+</p>
+
+<p align="center">
+    <img src="./" width=800>
 </p>
 
 # License
