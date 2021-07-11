@@ -12,8 +12,10 @@ gp.setwarnings(False)
 outlet_off = [True]
 
 # Initialize pin 17
+pin = 17
 gp.setup(pin, gp.OUT)
 gp.output(pin, gp.LOW)
+
 
 # For when the byoso is first accessed via the web browser
 @app.route("/")
