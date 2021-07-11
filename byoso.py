@@ -28,10 +28,10 @@ def turn_on():
     if outlet_off[0] is True:
         outlet_off[0] = False
         gp.output(pin, gp.LOW)
-        render_template("off.html")
+        return render_template("off.html")
 
     else:
-        render_template("on.html")
+        return render_template("on.html")
 
 
 @app.route("/off")
@@ -39,10 +39,10 @@ def turn_off():
     if outlet_off is False:
         outlet_off[0] = True
         gp.output(pin, gp.HIGH)
-        render_template("on.html")
+        return render_template("on.html")
 
     else:
-        render_template("off.html")
+        return render_template("off.html")
 
 
 if __name__ == "__main__":
