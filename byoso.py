@@ -7,14 +7,14 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 # Initialize RPi.GPIO
-gp.setmode (gp.BCM)
+gp.setmode(gp.BCM)
 gp.setwarnings(False)
 outlet_off = [True]
 
 # Initialize pin 17
 pin = 17
 gp.setup(pin, gp.OUT)
-gp.output(pin, gp.LOW)
+gp.output(pin, gp.HIGH)
 
 
 # For when the byoso is first accessed via the web browser
@@ -27,7 +27,7 @@ def home():
 def turn_on():
     if outlet_off[0] is True:
         outlet_off[0] = False
-        gp.output(pin, gp.HIGH)
+        gp.output(pin, gp.LOW)
         render_template("off.html")
 
     else:
@@ -38,7 +38,7 @@ def turn_on():
 def turn_off():
     if outlet_off is False:
         outlet_off[0] = True
-        gp.output(pin, gp.LOW)
+        gp.output(pin, gp.HIGH)
         render_template("on.html")
 
     else:
