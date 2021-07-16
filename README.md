@@ -1,10 +1,24 @@
-# Table of Contents
+<p align="center">
+    <img src="./share/logos/byoso.png" width="400">
+</p>
 
-* [How to make your own byoso](#how-to-make-your-own-byoso)
+<h3 align="center"><b>BYOSO</b></h3>
+
+<p align="center">
+    (B) Build (Y) Your (O) Own (S) Smart (O) Outlet using a Raspberry Pi Zero W, an outlet box, the Python Flask framework, and a simple internet connection!
+    <br />
+    <i>Pronounced "by"-"oh"-"so"</i>
+</p>
+
+<br />
+
+## Table of Contents
+
+* [How to make your own BYOSO](#how-to-make-your-own-byoso)
 * [License](#license)
 * [Troubleshooting](#troubleshooting)
 
-# How to make your own byoso
+## How to make your own BYOSO
 
 <p align="center">
     <img src="./share/images/ecessary_parts.jpg" width=600>
@@ -19,7 +33,7 @@
 </p>
 
 <p align="center">
-    <img src="./share/images/cable_connector.jpg" width=600 class="cable_connector">
+    <img src="./share/images/cable_connector.jpg" width=600>
 </p>
 
 <p align="center">
@@ -110,10 +124,10 @@
     <img src="./share/images/finished_product.jpg" width=600>
 </p>
 
-# License
+## License
 
 This repository is licensed under the GNU General Public License v3.0. For more information on what this license entails, please feel free to visit https://www.gnu.org/licenses/gpl-3.0.en.html.
 
-# Troubleshooting
+## Troubleshooting
 
 If you encounter any issues with building your own smart outlet, or if you have any general questions regarding byoso, then please feel free to open an issue on this repository or contact me at jason@nucci.tech!
